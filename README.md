@@ -1,4 +1,7 @@
-# api documentation for  [share (v0.7.40)](https://github.com/josephg/sharejs)  [![npm package](https://img.shields.io/npm/v/npmdoc-share.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-share) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-share.svg)](https://travis-ci.org/npmdoc/node-npmdoc-share)
+# npmdoc-share
+
+#### api documentation for  [share (v0.7.40)](https://github.com/josephg/sharejs)  [![npm package](https://img.shields.io/npm/v/npmdoc-share.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-share) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-share.svg)](https://travis-ci.org/npmdoc/node-npmdoc-share)
+
 #### A database for concurrent document editing
 
 [![NPM](https://nodei.co/npm/share.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/share)
