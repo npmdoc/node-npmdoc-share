@@ -1,6 +1,6 @@
 # npmdoc-share
 
-#### api documentation for  [share (v0.7.40)](https://github.com/josephg/sharejs)  [![npm package](https://img.shields.io/npm/v/npmdoc-share.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-share) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-share.svg)](https://travis-ci.org/npmdoc/node-npmdoc-share)
+#### basic api documentation for  [share (v0.7.40)](https://github.com/josephg/sharejs)  [![npm package](https://img.shields.io/npm/v/npmdoc-share.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-share) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-share.svg)](https://travis-ci.org/npmdoc/node-npmdoc-share)
 
 #### A database for concurrent document editing
 
@@ -97,7 +97,8 @@
         "prepublish": "make",
         "test": "node_modules/mocha/bin/mocha test/server test/browser"
     },
-    "version": "0.7.40"
+    "version": "0.7.40",
+    "bin": {}
 }
 ```
 
